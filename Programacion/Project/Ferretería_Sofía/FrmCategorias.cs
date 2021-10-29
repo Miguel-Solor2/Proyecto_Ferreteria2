@@ -101,8 +101,7 @@ namespace Ferretería_Sofía
 
         private void BtnReturn_Click(object sender, EventArgs e)
         {
-            FrmPrincipal frmmain = new FrmPrincipal();
-            frmmain.Show();
+            
             this.Close();
         }
 
