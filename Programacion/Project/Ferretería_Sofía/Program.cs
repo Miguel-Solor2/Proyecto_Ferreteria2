@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
+
 namespace Ferretería_Sofía
 {
     static class Program
@@ -14,9 +16,9 @@ namespace Ferretería_Sofía
         [STAThread]
         static void Main()
         {
-            //Application.EnableVisualStyles();
+            Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Pantalla_Carga());
+            Application.Run(FrmArticulos.GetInstancia());
         }
     }
 }

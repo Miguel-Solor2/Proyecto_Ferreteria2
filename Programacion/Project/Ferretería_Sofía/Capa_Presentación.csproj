@@ -118,6 +118,12 @@
     <Compile Include="FrmVentas.Designer.cs">
       <DependentUpon>FrmVentas.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmVistaCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVistaCategoria.Designer.cs">
+      <DependentUpon>FrmVistaCategoria.cs</DependentUpon>
+    </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -168,6 +174,9 @@
     <EmbeddedResource Include="FrmVentas.resx">
       <DependentUpon>FrmVentas.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmVistaCategoria.resx">
+      <DependentUpon>FrmVistaCategoria.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
@@ -211,6 +220,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\pantallas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Capa_Negocio\Capa_Negocio.csproj">
+      <Project>{0693d42d-30cb-4111-b4c3-d8b33af58f26}</Project>
+      <Name>Capa_Negocio</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
