@@ -56,10 +56,9 @@ namespace Ferretería_Sofía
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label1.Location = new System.Drawing.Point(124, 72);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(93, 58);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(433, 91);
+            this.label1.Size = new System.Drawing.Size(353, 73);
             this.label1.TabIndex = 5;
             this.label1.Text = "Categorías";
             // 
@@ -69,20 +68,18 @@ namespace Ferretería_Sofía
             // 
             // txtBuscar
             // 
-            this.txtBuscar.Location = new System.Drawing.Point(108, 48);
-            this.txtBuscar.Margin = new System.Windows.Forms.Padding(4);
+            this.txtBuscar.Location = new System.Drawing.Point(81, 39);
             this.txtBuscar.Name = "txtBuscar";
-            this.txtBuscar.Size = new System.Drawing.Size(287, 29);
+            this.txtBuscar.Size = new System.Drawing.Size(216, 24);
             this.txtBuscar.TabIndex = 4;
             this.txtBuscar.TextChanged += new System.EventHandler(this.txtBuscar_TextChanged);
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(8, 52);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(6, 42);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(84, 24);
+            this.label2.Size = new System.Drawing.Size(66, 18);
             this.label2.TabIndex = 0;
             this.label2.Text = "Nombre:";
             // 
@@ -90,11 +87,10 @@ namespace Ferretería_Sofía
             // 
             this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tabControl1.Location = new System.Drawing.Point(136, 227);
-            this.tabControl1.Margin = new System.Windows.Forms.Padding(4);
+            this.tabControl1.Location = new System.Drawing.Point(102, 184);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(1351, 597);
+            this.tabControl1.Size = new System.Drawing.Size(1013, 485);
             this.tabControl1.TabIndex = 4;
             // 
             // tabPage1
@@ -103,11 +99,10 @@ namespace Ferretería_Sofía
             this.tabPage1.Controls.Add(this.lblTotal);
             this.tabPage1.Controls.Add(this.txtBuscar);
             this.tabPage1.Controls.Add(this.label2);
-            this.tabPage1.Location = new System.Drawing.Point(4, 33);
-            this.tabPage1.Margin = new System.Windows.Forms.Padding(4);
+            this.tabPage1.Location = new System.Drawing.Point(4, 27);
             this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Padding = new System.Windows.Forms.Padding(4);
-            this.tabPage1.Size = new System.Drawing.Size(1343, 560);
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(3, 3, 3, 3);
+            this.tabPage1.Size = new System.Drawing.Size(1005, 454);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Listado";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -120,15 +115,15 @@ namespace Ferretería_Sofía
             this.dataListado.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataListado.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Anular});
-            this.dataListado.Location = new System.Drawing.Point(12, 128);
-            this.dataListado.Margin = new System.Windows.Forms.Padding(4);
+            this.dataListado.Location = new System.Drawing.Point(9, 104);
             this.dataListado.MultiSelect = false;
             this.dataListado.Name = "dataListado";
             this.dataListado.ReadOnly = true;
             this.dataListado.RowHeadersWidth = 51;
             this.dataListado.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dataListado.Size = new System.Drawing.Size(1320, 423);
+            this.dataListado.Size = new System.Drawing.Size(990, 344);
             this.dataListado.TabIndex = 9;
+            this.dataListado.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataListado_CellContentClick);
             this.dataListado.DoubleClick += new System.EventHandler(this.dataListado_DoubleClick);
             // 
             // Anular
@@ -142,20 +137,20 @@ namespace Ferretería_Sofía
             // lblTotal
             // 
             this.lblTotal.AutoSize = true;
-            this.lblTotal.Location = new System.Drawing.Point(1045, 100);
-            this.lblTotal.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblTotal.Location = new System.Drawing.Point(784, 81);
             this.lblTotal.Name = "lblTotal";
-            this.lblTotal.Size = new System.Drawing.Size(139, 24);
+            this.lblTotal.Size = new System.Drawing.Size(113, 18);
             this.lblTotal.TabIndex = 7;
             this.lblTotal.Text = "Total Registros:";
             // 
             // FrmVistaCategoria
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1610, 896);
+            this.ClientSize = new System.Drawing.Size(1208, 716);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.tabControl1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "FrmVistaCategoria";
             this.Text = "FrmVistaCategoria";
             this.Load += new System.EventHandler(this.FrmVistaCategoria_Load);

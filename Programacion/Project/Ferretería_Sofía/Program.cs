@@ -16,9 +16,9 @@ namespace Ferretería_Sofía
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
+            //Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(FrmArticulos.GetInstancia());
+            Application.Run(new Pantalla_Carga());
         }
     }
 }

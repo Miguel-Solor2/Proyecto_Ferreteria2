@@ -44,7 +44,10 @@
     <Compile Include="conexion.cs" />
     <Compile Include="Darticulo.cs" />
     <Compile Include="Dcategoria.cs" />
+    <Compile Include="Dclientes.cs" />
     <Compile Include="Dpresentacion.cs" />
+    <Compile Include="Dproveedor.cs" />
+    <Compile Include="Dtrabajador.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

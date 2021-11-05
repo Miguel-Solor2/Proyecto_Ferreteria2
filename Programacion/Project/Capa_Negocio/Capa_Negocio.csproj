@@ -44,7 +44,10 @@
   <ItemGroup>
     <Compile Include="Narticulo.cs" />
     <Compile Include="Ncategoria.cs" />
+    <Compile Include="Nclientes.cs" />
     <Compile Include="Npresentacion.cs" />
+    <Compile Include="Nproveedor.cs" />
+    <Compile Include="Ntrabajador.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

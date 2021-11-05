@@ -69,7 +69,7 @@ VALUES ('Cacerez','Construción','DNI','Calle hacia la Concepcion, Juticalpa','90
 INSERT INTO TRABAJADOR(Nombre_Trabajador,Apellido_Trabajador,Fecha_Nacimiento,Genero,Tipo_Documento,Direccion_T,Telefono_T,Email_T,N_Documento) 
 VALUES ('Miguel Angel','Solorzano','2001-02-02','M','DNI','Barrio el castaño','1111111','Miguel@gmail.com','90989098');
 INSERT INTO TRABAJADOR(Nombre_Trabajador,Apellido_Trabajador,Fecha_Nacimiento,Genero,Tipo_Documento,Direccion_T,Telefono_T,Email_T,N_Documento) 
-VALUES ('Gerson Dvid','Barralaga','2000-02-23','M','Factura','Barrio el colegio','98765434','gerson@gmail.com','98766789');
+VALUES ('Gerson David','Barralaga','2000-02-23','M','DNI','Barrio el colegio','98765434','gerson@gmail.com','98766789');
 INSERT INTO TRABAJADOR(Nombre_Trabajador,Apellido_Trabajador,Fecha_Nacimiento,Genero,Tipo_Documento,Direccion_T,Telefono_T,Email_T,N_Documento) 
 VALUES ('Wilder Oqueli','Maldonado','2000-09-02','M','DNI','Colonia San Pedro','78654321','wilder@gmail.com','12342123');
 INSERT INTO TRABAJADOR(Nombre_Trabajador,Apellido_Trabajador,Fecha_Nacimiento,Genero,Tipo_Documento,Direccion_T,Telefono_T,Email_T,N_Documento) 
@@ -91,7 +91,7 @@ VALUES (2,'Administrador','wildo','operar2')
 INSERT INTO CLIENTE(Nombre_Cliente,Apellido_Cliente,Fecha_Nacimiento,Genero,Tipo_Documento,Direccion_C,Telefono_C,Email_C,N_Documento) 
 VALUES ('Henry Heraldo','Lazaro','2001-01-01','M','DNI','Barrio barrio','1111111','Henry@gmail.com','255355');
 INSERT INTO CLIENTE(Nombre_Cliente,Apellido_Cliente,Fecha_Nacimiento,Genero,Tipo_Documento,Direccion_C,Telefono_C,Email_C,N_Documento) 
-VALUES ('Karla Patricia','Gutierrez','1998-03-01','F','Factura','Barrio el centro','87654578','karka@gmail.com','255356');
+VALUES ('Karla Patricia','Gutierrez','1998-03-01','F','DNI','Barrio el centro','87654578','karka@gmail.com','255356');
 INSERT INTO CLIENTE(Nombre_Cliente,Apellido_Cliente,Fecha_Nacimiento,Genero,Tipo_Documento,Direccion_C,Telefono_C,Email_C,N_Documento) 
 VALUES ('Alicia Anais','Fúnez','1980-09-30','F','DNI','Barrio las flores','67554565','alicia@gmail.com','255357');
 INSERT INTO CLIENTE(Nombre_Cliente,Apellido_Cliente,Fecha_Nacimiento,Genero,Tipo_Documento,Direccion_C,Telefono_C,Email_C,N_Documento) 

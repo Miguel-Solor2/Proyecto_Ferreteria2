@@ -19,8 +19,8 @@ namespace Ferretería_Sofía
 
         private void artículosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FrmArticulos frmart = new FrmArticulos();
-            frmart.ShowDialog();
+            FrmArticulos form = FrmArticulos.GetInstancia();
+            form.ShowDialog();
         }
 
         private void categoríasToolStripMenuItem_Click(object sender, EventArgs e)

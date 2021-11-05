@@ -44,8 +44,6 @@ namespace Ferretería_Sofía
 
         private void BtnReturn_Click(object sender, EventArgs e)
         {
-            FrmPrincipal frmmain = new FrmPrincipal();
-            frmmain.Show();
             this.Close();
         }
 
@@ -67,6 +65,11 @@ namespace Ferretería_Sofía
             par2 = Convert.ToString(this.dataListado.CurrentRow.Cells["Nombre_Categoria"].Value);
             form.setCategoria(par1, par2);
             this.Hide();
+        }
+
+        private void dataListado_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

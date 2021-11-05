@@ -29,31 +29,28 @@ namespace Ferretería_Sofía
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.BtnReturn = new System.Windows.Forms.Button();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.label1 = new System.Windows.Forms.Label();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.dataListado = new System.Windows.Forms.DataGridView();
+            this.LblTotal = new System.Windows.Forms.Label();
+            this.chkAnular = new System.Windows.Forms.CheckBox();
+            this.BtnPrint = new System.Windows.Forms.Button();
+            this.BtnAnular = new System.Windows.Forms.Button();
+            this.TxtBuscar = new System.Windows.Forms.TextBox();
+            this.cmbbuscar = new System.Windows.Forms.ComboBox();
             this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.txtDescripcion = new System.Windows.Forms.TextBox();
-            this.textBox8 = new System.Windows.Forms.TextBox();
-            this.comboBox3 = new System.Windows.Forms.ComboBox();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
+            this.txtNum_Documento = new System.Windows.Forms.TextBox();
+            this.cmbTipodoc = new System.Windows.Forms.ComboBox();
+            this.cmbSectorsocial = new System.Windows.Forms.ComboBox();
+            this.TxtTelefono = new System.Windows.Forms.TextBox();
+            this.TxtURL = new System.Windows.Forms.TextBox();
+            this.Txtemail = new System.Windows.Forms.TextBox();
+            this.txtRazon_Social = new System.Windows.Forms.TextBox();
+            this.Txtidproveedor = new System.Windows.Forms.TextBox();
+            this.BtnCancelar = new System.Windows.Forms.Button();
+            this.BtnEditar = new System.Windows.Forms.Button();
             this.label9 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
@@ -64,10 +61,20 @@ namespace Ferretería_Sofía
             this.label2 = new System.Windows.Forms.Label();
             this.labe2 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
+            this.cmbEstado = new System.Windows.Forms.ComboBox();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label12 = new System.Windows.Forms.Label();
+            this.BtnNuevo = new System.Windows.Forms.Button();
+            this.BtnGuardar = new System.Windows.Forms.Button();
+            this.txtDireccion = new System.Windows.Forms.TextBox();
+            this.ttMensaje = new System.Windows.Forms.ToolTip(this.components);
+            this.errorIcono = new System.Windows.Forms.ErrorProvider(this.components);
+            this.Anular = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataListado)).BeginInit();
             this.tabPage2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.errorIcono)).BeginInit();
             this.SuspendLayout();
             // 
             // tabControl1
@@ -79,32 +86,31 @@ namespace Ferretería_Sofía
             this.tabControl1.Margin = new System.Windows.Forms.Padding(2);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(1113, 476);
+            this.tabControl1.Size = new System.Drawing.Size(1017, 476);
             this.tabControl1.TabIndex = 1;
             // 
             // tabPage1
             // 
             this.tabPage1.Controls.Add(this.BtnReturn);
-            this.tabPage1.Controls.Add(this.dataGridView1);
-            this.tabPage1.Controls.Add(this.label1);
-            this.tabPage1.Controls.Add(this.checkBox1);
-            this.tabPage1.Controls.Add(this.button3);
-            this.tabPage1.Controls.Add(this.button2);
-            this.tabPage1.Controls.Add(this.button1);
-            this.tabPage1.Controls.Add(this.textBox1);
-            this.tabPage1.Controls.Add(this.comboBox1);
+            this.tabPage1.Controls.Add(this.dataListado);
+            this.tabPage1.Controls.Add(this.LblTotal);
+            this.tabPage1.Controls.Add(this.chkAnular);
+            this.tabPage1.Controls.Add(this.BtnPrint);
+            this.tabPage1.Controls.Add(this.BtnAnular);
+            this.tabPage1.Controls.Add(this.TxtBuscar);
+            this.tabPage1.Controls.Add(this.cmbbuscar);
             this.tabPage1.Location = new System.Drawing.Point(4, 26);
             this.tabPage1.Margin = new System.Windows.Forms.Padding(2);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(2);
-            this.tabPage1.Size = new System.Drawing.Size(1105, 446);
+            this.tabPage1.Size = new System.Drawing.Size(1009, 446);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Listado";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
             // BtnReturn
             // 
-            this.BtnReturn.Location = new System.Drawing.Point(981, 56);
+            this.BtnReturn.Location = new System.Drawing.Point(901, 56);
             this.BtnReturn.Name = "BtnReturn";
             this.BtnReturn.Size = new System.Drawing.Size(103, 31);
             this.BtnReturn.TabIndex = 12;
@@ -112,115 +118,117 @@ namespace Ferretería_Sofía
             this.BtnReturn.UseVisualStyleBackColor = true;
             this.BtnReturn.Click += new System.EventHandler(this.BtnReturn_Click);
             // 
-            // dataGridView1
+            // dataListado
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(4, 132);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(2);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.RowHeadersWidth = 51;
-            this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(1097, 310);
-            this.dataGridView1.TabIndex = 7;
+            this.dataListado.AllowUserToAddRows = false;
+            this.dataListado.AllowUserToDeleteRows = false;
+            this.dataListado.AllowUserToOrderColumns = true;
+            this.dataListado.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataListado.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.Anular});
+            this.dataListado.Location = new System.Drawing.Point(4, 132);
+            this.dataListado.Margin = new System.Windows.Forms.Padding(2);
+            this.dataListado.Name = "dataListado";
+            this.dataListado.ReadOnly = true;
+            this.dataListado.RowHeadersWidth = 51;
+            this.dataListado.RowTemplate.Height = 24;
+            this.dataListado.Size = new System.Drawing.Size(991, 310);
+            this.dataListado.TabIndex = 7;
+            this.dataListado.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataListado_CellContentClick);
+            this.dataListado.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataListado_CellDoubleClick);
             // 
-            // label1
+            // LblTotal
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(882, 109);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(113, 18);
-            this.label1.TabIndex = 6;
-            this.label1.Text = "Total Registros:";
+            this.LblTotal.AutoSize = true;
+            this.LblTotal.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LblTotal.Location = new System.Drawing.Point(782, 108);
+            this.LblTotal.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.LblTotal.Name = "LblTotal";
+            this.LblTotal.Size = new System.Drawing.Size(113, 18);
+            this.LblTotal.TabIndex = 6;
+            this.LblTotal.Text = "Total Registros:";
             // 
-            // checkBox1
+            // chkAnular
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBox1.Location = new System.Drawing.Point(28, 106);
-            this.checkBox1.Margin = new System.Windows.Forms.Padding(2);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(68, 22);
-            this.checkBox1.TabIndex = 5;
-            this.checkBox1.Text = "Anular";
-            this.checkBox1.UseVisualStyleBackColor = true;
+            this.chkAnular.AutoSize = true;
+            this.chkAnular.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.chkAnular.Location = new System.Drawing.Point(28, 106);
+            this.chkAnular.Margin = new System.Windows.Forms.Padding(2);
+            this.chkAnular.Name = "chkAnular";
+            this.chkAnular.Size = new System.Drawing.Size(68, 22);
+            this.chkAnular.TabIndex = 5;
+            this.chkAnular.Text = "Anular";
+            this.chkAnular.UseVisualStyleBackColor = true;
+            this.chkAnular.CheckedChanged += new System.EventHandler(this.chkAnular_CheckedChanged);
             // 
-            // button3
+            // BtnPrint
             // 
-            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(853, 56);
-            this.button3.Margin = new System.Windows.Forms.Padding(2);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(103, 31);
-            this.button3.TabIndex = 4;
-            this.button3.Text = "&Imprimir";
-            this.button3.UseVisualStyleBackColor = true;
+            this.BtnPrint.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnPrint.Location = new System.Drawing.Point(773, 56);
+            this.BtnPrint.Margin = new System.Windows.Forms.Padding(2);
+            this.BtnPrint.Name = "BtnPrint";
+            this.BtnPrint.Size = new System.Drawing.Size(103, 31);
+            this.BtnPrint.TabIndex = 4;
+            this.BtnPrint.Text = "&Imprimir";
+            this.BtnPrint.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // BtnAnular
             // 
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(725, 56);
-            this.button2.Margin = new System.Windows.Forms.Padding(2);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(103, 31);
-            this.button2.TabIndex = 3;
-            this.button2.Text = "&Anular";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.BtnAnular.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnAnular.Location = new System.Drawing.Point(645, 56);
+            this.BtnAnular.Margin = new System.Windows.Forms.Padding(2);
+            this.BtnAnular.Name = "BtnAnular";
+            this.BtnAnular.Size = new System.Drawing.Size(103, 31);
+            this.BtnAnular.TabIndex = 3;
+            this.BtnAnular.Text = "&Anular";
+            this.BtnAnular.UseVisualStyleBackColor = true;
+            this.BtnAnular.Click += new System.EventHandler(this.button2_Click);
             // 
-            // button1
+            // TxtBuscar
             // 
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(302, 56);
-            this.button1.Margin = new System.Windows.Forms.Padding(2);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(68, 25);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "&Buscar\r\n";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.TxtBuscar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TxtBuscar.Location = new System.Drawing.Point(137, 56);
+            this.TxtBuscar.Margin = new System.Windows.Forms.Padding(2);
+            this.TxtBuscar.Name = "TxtBuscar";
+            this.TxtBuscar.Size = new System.Drawing.Size(234, 24);
+            this.TxtBuscar.TabIndex = 1;
+            this.TxtBuscar.TextChanged += new System.EventHandler(this.TxtBuscar_TextChanged);
             // 
-            // textBox1
+            // cmbbuscar
             // 
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(137, 56);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(143, 24);
-            this.textBox1.TabIndex = 1;
-            // 
-            // comboBox1
-            // 
-            this.comboBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
+            this.cmbbuscar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmbbuscar.FormattingEnabled = true;
+            this.cmbbuscar.Items.AddRange(new object[] {
             "Razon Social",
             "Documento"});
-            this.comboBox1.Location = new System.Drawing.Point(19, 56);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(2);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(104, 25);
-            this.comboBox1.TabIndex = 0;
+            this.cmbbuscar.Location = new System.Drawing.Point(19, 56);
+            this.cmbbuscar.Margin = new System.Windows.Forms.Padding(2);
+            this.cmbbuscar.Name = "cmbbuscar";
+            this.cmbbuscar.Size = new System.Drawing.Size(104, 25);
+            this.cmbbuscar.TabIndex = 0;
+            this.cmbbuscar.Text = "Documento";
             // 
             // tabPage2
             // 
-            this.tabPage2.Controls.Add(this.txtDescripcion);
-            this.tabPage2.Controls.Add(this.textBox8);
-            this.tabPage2.Controls.Add(this.comboBox3);
-            this.tabPage2.Controls.Add(this.comboBox2);
-            this.tabPage2.Controls.Add(this.textBox6);
-            this.tabPage2.Controls.Add(this.textBox5);
-            this.tabPage2.Controls.Add(this.textBox4);
-            this.tabPage2.Controls.Add(this.textBox3);
-            this.tabPage2.Controls.Add(this.textBox2);
-            this.tabPage2.Controls.Add(this.button7);
-            this.tabPage2.Controls.Add(this.button6);
-            this.tabPage2.Controls.Add(this.button5);
-            this.tabPage2.Controls.Add(this.button4);
+            this.tabPage2.Controls.Add(this.cmbEstado);
+            this.tabPage2.Controls.Add(this.label10);
+            this.tabPage2.Controls.Add(this.txtDireccion);
+            this.tabPage2.Controls.Add(this.txtNum_Documento);
+            this.tabPage2.Controls.Add(this.cmbTipodoc);
+            this.tabPage2.Controls.Add(this.cmbSectorsocial);
+            this.tabPage2.Controls.Add(this.TxtTelefono);
+            this.tabPage2.Controls.Add(this.TxtURL);
+            this.tabPage2.Controls.Add(this.Txtemail);
+            this.tabPage2.Controls.Add(this.txtRazon_Social);
+            this.tabPage2.Controls.Add(this.Txtidproveedor);
+            this.tabPage2.Controls.Add(this.BtnCancelar);
+            this.tabPage2.Controls.Add(this.BtnEditar);
+            this.tabPage2.Controls.Add(this.BtnGuardar);
+            this.tabPage2.Controls.Add(this.BtnNuevo);
             this.tabPage2.Controls.Add(this.label9);
             this.tabPage2.Controls.Add(this.label8);
             this.tabPage2.Controls.Add(this.label7);
+            this.tabPage2.Controls.Add(this.label12);
             this.tabPage2.Controls.Add(this.label6);
             this.tabPage2.Controls.Add(this.label5);
             this.tabPage2.Controls.Add(this.label4);
@@ -231,125 +239,106 @@ namespace Ferretería_Sofía
             this.tabPage2.Margin = new System.Windows.Forms.Padding(2);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(2);
-            this.tabPage2.Size = new System.Drawing.Size(1105, 446);
+            this.tabPage2.Size = new System.Drawing.Size(1009, 446);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Mantenimiento";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
-            // txtDescripcion
+            // txtNum_Documento
             // 
-            this.txtDescripcion.Location = new System.Drawing.Point(147, 255);
-            this.txtDescripcion.Multiline = true;
-            this.txtDescripcion.Name = "txtDescripcion";
-            this.txtDescripcion.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.txtDescripcion.Size = new System.Drawing.Size(384, 79);
-            this.txtDescripcion.TabIndex = 22;
+            this.txtNum_Documento.Location = new System.Drawing.Point(147, 253);
+            this.txtNum_Documento.Margin = new System.Windows.Forms.Padding(2);
+            this.txtNum_Documento.Name = "txtNum_Documento";
+            this.txtNum_Documento.Size = new System.Drawing.Size(384, 24);
+            this.txtNum_Documento.TabIndex = 21;
             // 
-            // textBox8
+            // cmbTipodoc
             // 
-            this.textBox8.Location = new System.Drawing.Point(315, 216);
-            this.textBox8.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(220, 24);
-            this.textBox8.TabIndex = 21;
+            this.cmbTipodoc.FormattingEnabled = true;
+            this.cmbTipodoc.Items.AddRange(new object[] {
+            "DNI",
+            "RUC"});
+            this.cmbTipodoc.Location = new System.Drawing.Point(147, 214);
+            this.cmbTipodoc.Margin = new System.Windows.Forms.Padding(2);
+            this.cmbTipodoc.Name = "cmbTipodoc";
+            this.cmbTipodoc.Size = new System.Drawing.Size(384, 25);
+            this.cmbTipodoc.TabIndex = 20;
             // 
-            // comboBox3
+            // cmbSectorsocial
             // 
-            this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Location = new System.Drawing.Point(147, 214);
-            this.comboBox3.Margin = new System.Windows.Forms.Padding(2);
-            this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(164, 25);
-            this.comboBox3.TabIndex = 20;
+            this.cmbSectorsocial.FormattingEnabled = true;
+            this.cmbSectorsocial.Items.AddRange(new object[] {
+            "Construccion",
+            "Techos"});
+            this.cmbSectorsocial.Location = new System.Drawing.Point(147, 172);
+            this.cmbSectorsocial.Margin = new System.Windows.Forms.Padding(2);
+            this.cmbSectorsocial.Name = "cmbSectorsocial";
+            this.cmbSectorsocial.Size = new System.Drawing.Size(384, 25);
+            this.cmbSectorsocial.TabIndex = 19;
             // 
-            // comboBox2
+            // TxtTelefono
             // 
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(147, 172);
-            this.comboBox2.Margin = new System.Windows.Forms.Padding(2);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(388, 25);
-            this.comboBox2.TabIndex = 19;
+            this.TxtTelefono.Location = new System.Drawing.Point(651, 125);
+            this.TxtTelefono.Margin = new System.Windows.Forms.Padding(2);
+            this.TxtTelefono.Name = "TxtTelefono";
+            this.TxtTelefono.Size = new System.Drawing.Size(164, 24);
+            this.TxtTelefono.TabIndex = 17;
             // 
-            // textBox6
+            // TxtURL
             // 
-            this.textBox6.Location = new System.Drawing.Point(685, 125);
-            this.textBox6.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(164, 24);
-            this.textBox6.TabIndex = 17;
+            this.TxtURL.Location = new System.Drawing.Point(651, 211);
+            this.TxtURL.Margin = new System.Windows.Forms.Padding(2);
+            this.TxtURL.Name = "TxtURL";
+            this.TxtURL.Size = new System.Drawing.Size(342, 24);
+            this.TxtURL.TabIndex = 16;
             // 
-            // textBox5
+            // Txtemail
             // 
-            this.textBox5.Location = new System.Drawing.Point(685, 211);
-            this.textBox5.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(388, 24);
-            this.textBox5.TabIndex = 16;
+            this.Txtemail.Location = new System.Drawing.Point(651, 171);
+            this.Txtemail.Margin = new System.Windows.Forms.Padding(2);
+            this.Txtemail.Name = "Txtemail";
+            this.Txtemail.Size = new System.Drawing.Size(342, 24);
+            this.Txtemail.TabIndex = 15;
             // 
-            // textBox4
+            // txtRazon_Social
             // 
-            this.textBox4.Location = new System.Drawing.Point(685, 171);
-            this.textBox4.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(388, 24);
-            this.textBox4.TabIndex = 15;
+            this.txtRazon_Social.Location = new System.Drawing.Point(147, 125);
+            this.txtRazon_Social.Margin = new System.Windows.Forms.Padding(2);
+            this.txtRazon_Social.Name = "txtRazon_Social";
+            this.txtRazon_Social.Size = new System.Drawing.Size(384, 24);
+            this.txtRazon_Social.TabIndex = 14;
             // 
-            // textBox3
+            // Txtidproveedor
             // 
-            this.textBox3.Location = new System.Drawing.Point(147, 125);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(388, 24);
-            this.textBox3.TabIndex = 14;
+            this.Txtidproveedor.Enabled = false;
+            this.Txtidproveedor.Location = new System.Drawing.Point(147, 66);
+            this.Txtidproveedor.Margin = new System.Windows.Forms.Padding(2);
+            this.Txtidproveedor.Name = "Txtidproveedor";
+            this.Txtidproveedor.Size = new System.Drawing.Size(81, 24);
+            this.Txtidproveedor.TabIndex = 13;
+            this.Txtidproveedor.TextChanged += new System.EventHandler(this.Txtidproveedor_TextChanged);
             // 
-            // textBox2
+            // BtnCancelar
             // 
-            this.textBox2.Location = new System.Drawing.Point(147, 66);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(81, 24);
-            this.textBox2.TabIndex = 13;
+            this.BtnCancelar.Location = new System.Drawing.Point(572, 381);
+            this.BtnCancelar.Margin = new System.Windows.Forms.Padding(2);
+            this.BtnCancelar.Name = "BtnCancelar";
+            this.BtnCancelar.Size = new System.Drawing.Size(88, 39);
+            this.BtnCancelar.TabIndex = 12;
+            this.BtnCancelar.Text = "&Cancelar";
+            this.BtnCancelar.UseVisualStyleBackColor = true;
+            this.BtnCancelar.Click += new System.EventHandler(this.BtnCancelar_Click);
             // 
-            // button7
+            // BtnEditar
             // 
-            this.button7.Location = new System.Drawing.Point(685, 349);
-            this.button7.Margin = new System.Windows.Forms.Padding(2);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(88, 39);
-            this.button7.TabIndex = 12;
-            this.button7.Text = "&Cancelar";
-            this.button7.UseVisualStyleBackColor = true;
-            // 
-            // button6
-            // 
-            this.button6.Location = new System.Drawing.Point(496, 349);
-            this.button6.Margin = new System.Windows.Forms.Padding(2);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(88, 39);
-            this.button6.TabIndex = 11;
-            this.button6.Text = "&Editar";
-            this.button6.UseVisualStyleBackColor = true;
-            // 
-            // button5
-            // 
-            this.button5.Location = new System.Drawing.Point(382, 349);
-            this.button5.Margin = new System.Windows.Forms.Padding(2);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(88, 39);
-            this.button5.TabIndex = 10;
-            this.button5.Text = "&Guardar";
-            this.button5.UseVisualStyleBackColor = true;
-            // 
-            // button4
-            // 
-            this.button4.Location = new System.Drawing.Point(262, 349);
-            this.button4.Margin = new System.Windows.Forms.Padding(2);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(88, 39);
-            this.button4.TabIndex = 9;
-            this.button4.Text = "&Nuevo";
-            this.button4.UseVisualStyleBackColor = true;
+            this.BtnEditar.Location = new System.Drawing.Point(432, 381);
+            this.BtnEditar.Margin = new System.Windows.Forms.Padding(2);
+            this.BtnEditar.Name = "BtnEditar";
+            this.BtnEditar.Size = new System.Drawing.Size(88, 39);
+            this.BtnEditar.TabIndex = 11;
+            this.BtnEditar.Text = "&Editar";
+            this.BtnEditar.UseVisualStyleBackColor = true;
+            this.BtnEditar.Click += new System.EventHandler(this.BtnEditar_Click);
             // 
             // label9
             // 
@@ -387,9 +376,9 @@ namespace Ferretería_Sofía
             this.label6.Location = new System.Drawing.Point(20, 258);
             this.label6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(71, 18);
+            this.label6.Size = new System.Drawing.Size(123, 18);
             this.label6.TabIndex = 5;
-            this.label6.Text = "Direccion";
+            this.label6.Text = "Num documento:";
             // 
             // label5
             // 
@@ -453,6 +442,79 @@ namespace Ferretería_Sofía
             this.label11.TabIndex = 4;
             this.label11.Text = "Proveedores";
             // 
+            // cmbEstado
+            // 
+            this.cmbEstado.FormattingEnabled = true;
+            this.cmbEstado.Items.AddRange(new object[] {
+            "ACTIVA",
+            "INACTIVA"});
+            this.cmbEstado.Location = new System.Drawing.Point(651, 255);
+            this.cmbEstado.Margin = new System.Windows.Forms.Padding(2);
+            this.cmbEstado.Name = "cmbEstado";
+            this.cmbEstado.Size = new System.Drawing.Size(114, 25);
+            this.cmbEstado.TabIndex = 38;
+            this.cmbEstado.Text = "ACTIVA";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(556, 257);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(59, 18);
+            this.label10.TabIndex = 37;
+            this.label10.Text = "Estado:";
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Location = new System.Drawing.Point(20, 290);
+            this.label12.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(71, 18);
+            this.label12.TabIndex = 5;
+            this.label12.Text = "Direccion";
+            // 
+            // BtnNuevo
+            // 
+            this.BtnNuevo.Location = new System.Drawing.Point(174, 381);
+            this.BtnNuevo.Margin = new System.Windows.Forms.Padding(2);
+            this.BtnNuevo.Name = "BtnNuevo";
+            this.BtnNuevo.Size = new System.Drawing.Size(88, 39);
+            this.BtnNuevo.TabIndex = 9;
+            this.BtnNuevo.Text = "&Nuevo";
+            this.BtnNuevo.UseVisualStyleBackColor = true;
+            this.BtnNuevo.Click += new System.EventHandler(this.BtnNuevo_Click);
+            // 
+            // BtnGuardar
+            // 
+            this.BtnGuardar.Location = new System.Drawing.Point(305, 381);
+            this.BtnGuardar.Margin = new System.Windows.Forms.Padding(2);
+            this.BtnGuardar.Name = "BtnGuardar";
+            this.BtnGuardar.Size = new System.Drawing.Size(88, 39);
+            this.BtnGuardar.TabIndex = 10;
+            this.BtnGuardar.Text = "&Guardar";
+            this.BtnGuardar.UseVisualStyleBackColor = true;
+            this.BtnGuardar.Click += new System.EventHandler(this.BtnGuardar_Click);
+            // 
+            // txtDireccion
+            // 
+            this.txtDireccion.Location = new System.Drawing.Point(147, 287);
+            this.txtDireccion.Multiline = true;
+            this.txtDireccion.Name = "txtDireccion";
+            this.txtDireccion.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.txtDireccion.Size = new System.Drawing.Size(384, 79);
+            this.txtDireccion.TabIndex = 22;
+            // 
+            // errorIcono
+            // 
+            this.errorIcono.ContainerControl = this;
+            // 
+            // Anular
+            // 
+            this.Anular.HeaderText = "Anular";
+            this.Anular.Name = "Anular";
+            this.Anular.ReadOnly = true;
+            // 
             // FrmProveedores
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -467,12 +529,14 @@ namespace Ferretería_Sofía
             this.Name = "FrmProveedores";
             this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "FrmProveedores";
+            this.Load += new System.EventHandler(this.FrmProveedores_Load);
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataListado)).EndInit();
             this.tabPage2.ResumeLayout(false);
             this.tabPage2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.errorIcono)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -481,38 +545,43 @@ namespace Ferretería_Sofía
         #endregion
         private System.Windows.Forms.TabControl tabControl1;
         private System.Windows.Forms.TabPage tabPage1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.TextBox TxtBuscar;
+        private System.Windows.Forms.ComboBox cmbbuscar;
         private System.Windows.Forms.TabPage tabPage2;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.CheckBox checkBox1;
-        private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button BtnAnular;
+        private System.Windows.Forms.Button BtnPrint;
+        private System.Windows.Forms.CheckBox chkAnular;
+        private System.Windows.Forms.DataGridView dataListado;
+        private System.Windows.Forms.Label LblTotal;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label labe2;
-        private System.Windows.Forms.TextBox textBox8;
-        private System.Windows.Forms.ComboBox comboBox3;
-        private System.Windows.Forms.ComboBox comboBox2;
-        private System.Windows.Forms.TextBox textBox6;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.TextBox txtNum_Documento;
+        private System.Windows.Forms.ComboBox cmbTipodoc;
+        private System.Windows.Forms.ComboBox cmbSectorsocial;
+        private System.Windows.Forms.TextBox TxtTelefono;
+        private System.Windows.Forms.TextBox TxtURL;
+        private System.Windows.Forms.TextBox Txtemail;
+        private System.Windows.Forms.TextBox txtRazon_Social;
+        private System.Windows.Forms.TextBox Txtidproveedor;
+        private System.Windows.Forms.Button BtnCancelar;
+        private System.Windows.Forms.Button BtnEditar;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.TextBox txtDescripcion;
         private System.Windows.Forms.Button BtnReturn;
         private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.ComboBox cmbEstado;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.TextBox txtDireccion;
+        private System.Windows.Forms.Button BtnGuardar;
+        private System.Windows.Forms.Button BtnNuevo;
+        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.ToolTip ttMensaje;
+        private System.Windows.Forms.ErrorProvider errorIcono;
+        private System.Windows.Forms.DataGridViewCheckBoxColumn Anular;
     }
 }
