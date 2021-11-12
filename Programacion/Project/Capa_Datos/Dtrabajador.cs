@@ -98,11 +98,12 @@ namespace Capa_Datos
         }
 
         //Constructores
+        /*
         public Dtrabajador()
         {
 
         }
-
+        /*
         public Dtrabajador(int idtrabajador, string nombre, string apellidos, string sexo, DateTime fecha_nacimiento, string tipo_documento, string num_documento,
             string direccion, string telefono, string email, string textobuscar, string estado)
         {
@@ -119,7 +120,7 @@ namespace Capa_Datos
             this.BuscarTexto = textobuscar;
             this.Estado = estado;
         }
-
+        */
 
         //Método Insertar
         public string Insertar(Dtrabajador Trabajador)

@@ -48,7 +48,6 @@ namespace Ferretería_Sofía
             this.mtxtTelefono.Text = string.Empty;
             this.txtNumDocumento.Text = string.Empty;
             this.txtIdCliente.Text = string.Empty;
-
         }
 
         //Habilita los controles de los formularios
@@ -145,11 +144,6 @@ namespace Ferretería_Sofía
             this.Habilitar(false);
             //Establece los botones
             this.Botones();
-        }
-
-        private void btnBuscar_Click(object sender, EventArgs e)
-        {
-            this.BuscarApellido();
         }
 
         private void btnEliminar_Click(object sender, EventArgs e)

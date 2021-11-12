@@ -48,6 +48,7 @@
     <Compile Include="Npresentacion.cs" />
     <Compile Include="Nproveedor.cs" />
     <Compile Include="Ntrabajador.cs" />
+    <Compile Include="Nusuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

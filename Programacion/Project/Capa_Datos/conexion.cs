@@ -8,6 +8,6 @@ namespace Capa_Datos
 {
     class conexion
     {
-        public static string Cn = "Data Source=DESKTOP-S49HN7J;Initial Catalog=FERRETERIA;Integrated Security=True";
+        public static string Cn = "Data Source=LAPTOP-AJBV7FPL;Initial Catalog=FERRETERIA;Integrated Security=True";
     }
 }

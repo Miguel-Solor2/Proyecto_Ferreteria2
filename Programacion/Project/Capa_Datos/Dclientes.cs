@@ -160,10 +160,12 @@ namespace Capa_Datos
         }
 
         //Constructores
+        /*
         public Dclientes()
         {
 
         }
+        /*
         public Dclientes(int idcliente,string nombre,string apellido,DateTime fecha_nacimiento,string genero,string tipo_documento,string direccion, 
             string telefono, string email,string N_documento,string estado,string textobuscar)
         {
@@ -180,7 +182,7 @@ namespace Capa_Datos
             this._Estado = estado;
             this._BuscarTexto = textobuscar;
         }
-
+        */
         //Métodos
 
         //Método Insertar

@@ -35,14 +35,16 @@ namespace Ferretería_Sofía
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.BtnReturn = new System.Windows.Forms.Button();
             this.dataListado = new System.Windows.Forms.DataGridView();
+            this.Anular = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.lblTotal = new System.Windows.Forms.Label();
             this.chkAnular = new System.Windows.Forms.CheckBox();
             this.btnAnular = new System.Windows.Forms.Button();
             this.txtBuscar = new System.Windows.Forms.TextBox();
-            this.btnImprimir = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.cmbEstado = new System.Windows.Forms.ComboBox();
+            this.label4 = new System.Windows.Forms.Label();
             this.btnCancelar = new System.Windows.Forms.Button();
             this.btnEditar = new System.Windows.Forms.Button();
             this.btnGuardar = new System.Windows.Forms.Button();
@@ -55,9 +57,6 @@ namespace Ferretería_Sofía
             this.label3 = new System.Windows.Forms.Label();
             this.errorIcono = new System.Windows.Forms.ErrorProvider(this.components);
             this.ttMensaje = new System.Windows.Forms.ToolTip(this.components);
-            this.Anular = new System.Windows.Forms.DataGridViewCheckBoxColumn();
-            this.cmbEstado = new System.Windows.Forms.ComboBox();
-            this.label4 = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataListado)).BeginInit();
@@ -99,7 +98,6 @@ namespace Ferretería_Sofía
             this.tabPage1.Controls.Add(this.chkAnular);
             this.tabPage1.Controls.Add(this.btnAnular);
             this.tabPage1.Controls.Add(this.txtBuscar);
-            this.tabPage1.Controls.Add(this.btnImprimir);
             this.tabPage1.Controls.Add(this.label2);
             this.tabPage1.Location = new System.Drawing.Point(4, 33);
             this.tabPage1.Margin = new System.Windows.Forms.Padding(4);
@@ -141,6 +139,14 @@ namespace Ferretería_Sofía
             this.dataListado.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataListado_CellContentClick);
             this.dataListado.DoubleClick += new System.EventHandler(this.dataListado_DoubleClick);
             // 
+            // Anular
+            // 
+            this.Anular.HeaderText = "Anular";
+            this.Anular.MinimumWidth = 6;
+            this.Anular.Name = "Anular";
+            this.Anular.ReadOnly = true;
+            this.Anular.Width = 125;
+            // 
             // lblTotal
             // 
             this.lblTotal.AutoSize = true;
@@ -165,7 +171,7 @@ namespace Ferretería_Sofía
             // 
             // btnAnular
             // 
-            this.btnAnular.Location = new System.Drawing.Point(843, 54);
+            this.btnAnular.Location = new System.Drawing.Point(1014, 54);
             this.btnAnular.Margin = new System.Windows.Forms.Padding(4);
             this.btnAnular.Name = "btnAnular";
             this.btnAnular.Size = new System.Drawing.Size(137, 38);
@@ -182,16 +188,6 @@ namespace Ferretería_Sofía
             this.txtBuscar.Size = new System.Drawing.Size(287, 29);
             this.txtBuscar.TabIndex = 4;
             this.txtBuscar.TextChanged += new System.EventHandler(this.txtBuscar_TextChanged);
-            // 
-            // btnImprimir
-            // 
-            this.btnImprimir.Location = new System.Drawing.Point(1023, 54);
-            this.btnImprimir.Margin = new System.Windows.Forms.Padding(4);
-            this.btnImprimir.Name = "btnImprimir";
-            this.btnImprimir.Size = new System.Drawing.Size(137, 38);
-            this.btnImprimir.TabIndex = 3;
-            this.btnImprimir.Text = "&Imprimir";
-            this.btnImprimir.UseVisualStyleBackColor = true;
             // 
             // label2
             // 
@@ -237,6 +233,28 @@ namespace Ferretería_Sofía
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Presentación";
+            // 
+            // cmbEstado
+            // 
+            this.cmbEstado.FormattingEnabled = true;
+            this.cmbEstado.Items.AddRange(new object[] {
+            "ACTIVA",
+            "INACTIVA"});
+            this.cmbEstado.Location = new System.Drawing.Point(156, 348);
+            this.cmbEstado.Name = "cmbEstado";
+            this.cmbEstado.Size = new System.Drawing.Size(151, 32);
+            this.cmbEstado.TabIndex = 15;
+            this.cmbEstado.Text = "ACTIVA";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(30, 350);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(73, 24);
+            this.label4.TabIndex = 14;
+            this.label4.Text = "Estado:";
             // 
             // btnCancelar
             // 
@@ -347,36 +365,6 @@ namespace Ferretería_Sofía
             // 
             this.ttMensaje.IsBalloon = true;
             // 
-            // Anular
-            // 
-            this.Anular.HeaderText = "Anular";
-            this.Anular.MinimumWidth = 6;
-            this.Anular.Name = "Anular";
-            this.Anular.ReadOnly = true;
-            this.Anular.Width = 125;
-            // 
-            // cmbEstado
-            // 
-            this.cmbEstado.FormattingEnabled = true;
-            this.cmbEstado.Items.AddRange(new object[] {
-            "ACTIVA",
-            "INACTIVA"});
-            this.cmbEstado.Location = new System.Drawing.Point(156, 348);
-            this.cmbEstado.Name = "cmbEstado";
-            this.cmbEstado.Size = new System.Drawing.Size(151, 32);
-            this.cmbEstado.TabIndex = 15;
-            this.cmbEstado.Text = "ACTIVA";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(30, 350);
-            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(73, 24);
-            this.label4.TabIndex = 14;
-            this.label4.Text = "Estado:";
-            // 
             // FrmPresentacion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -415,7 +403,6 @@ namespace Ferretería_Sofía
         private System.Windows.Forms.CheckBox chkAnular;
         private System.Windows.Forms.Button btnAnular;
         private System.Windows.Forms.TextBox txtBuscar;
-        private System.Windows.Forms.Button btnImprimir;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TabPage tabPage2;
         private System.Windows.Forms.GroupBox groupBox1;

@@ -46,3 +46,15 @@ AS
 UPDATE USUARIO SET [Trabajador_ID] = @trabajadorID, [Acceso]= @acceso, [Usuario]= @usuario, [Contrasena]= @contrasena
 WHERE [ID_Usuario] = @idusuario 
 GO
+
+------Create SPLogin
+CREATE PROC SPLOGIN
+@Usuario VARCHAR(20),
+@Contrasena VARCHAR(20)
+AS
+ SELECT dbo.TRABAJADOR.ID_Trabajador, dbo.TRABAJADOR.Apellido_Trabajador, dbo.TRABAJADOR.Nombre_Trabajador, dbo.USUARIO.Acceso
+FROM     dbo.USUARIO INNER JOIN
+                  dbo.TRABAJADOR ON dbo.USUARIO.Trabajador_ID = dbo.TRABAJADOR.ID_Trabajador
+				  WHERE Usuario=@Usuario AND Contrasena = @Contrasena
+				  GO
+select * from usuario

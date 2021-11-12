@@ -16,8 +16,8 @@ namespace Ferretería_Sofía
     private bool IsNuevo = false;
     //Variable que nos indica si vamos a modificar un producto
     private bool IsModificar = false;
-
-    public FrmTrabajadores()
+        
+        public FrmTrabajadores()
         {
             InitializeComponent();
             this.ttMensaje.SetToolTip(this.txtNombre, "Ingrese el Nombre del Trabajador");

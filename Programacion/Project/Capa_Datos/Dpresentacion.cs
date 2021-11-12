@@ -49,11 +49,12 @@ namespace Capa_Datos
 
 
         //Constructor Vacio
+        /*
         public Dpresentacion()
         {
 
         }
-
+        /*
         //Constructor Parametros
         public Dpresentacion(int presentacionid, string nombre, string descripcion, string buscartexto, string estado)
         {
@@ -63,7 +64,7 @@ namespace Capa_Datos
             this.BuscarTexto = buscartexto;
             this.Estado = estado;
         }
-
+        */
         //Metodo Insertar 
         public string Insertar(Dpresentacion Presentacion)
         {

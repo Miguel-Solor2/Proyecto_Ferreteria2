@@ -52,12 +52,6 @@
     <Compile Include="FrmArticulos.Designer.cs">
       <DependentUpon>FrmArticulos.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmBackupBD.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmBackupBD.Designer.cs">
-      <DependentUpon>FrmBackupBD.cs</DependentUpon>
-    </Compile>
     <Compile Include="FrmCategorias.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -112,6 +106,12 @@
     <Compile Include="FrmTrabajadores.Designer.cs">
       <DependentUpon>FrmTrabajadores.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsuario.Designer.cs">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmVentas.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -123,6 +123,12 @@
     </Compile>
     <Compile Include="FrmVistaCategoria.Designer.cs">
       <DependentUpon>FrmVistaCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVistaTrabajador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVistaTrabajador.Designer.cs">
+      <DependentUpon>FrmVistaTrabajador.cs</DependentUpon>
     </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
@@ -140,9 +146,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmArticulos.resx">
       <DependentUpon>FrmArticulos.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FrmBackupBD.resx">
-      <DependentUpon>FrmBackupBD.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmCategorias.resx">
       <DependentUpon>FrmCategorias.cs</DependentUpon>
@@ -171,11 +174,17 @@
     <EmbeddedResource Include="FrmTrabajadores.resx">
       <DependentUpon>FrmTrabajadores.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsuario.resx">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmVentas.resx">
       <DependentUpon>FrmVentas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmVistaCategoria.resx">
       <DependentUpon>FrmVistaCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVistaTrabajador.resx">
+      <DependentUpon>FrmVistaTrabajador.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>

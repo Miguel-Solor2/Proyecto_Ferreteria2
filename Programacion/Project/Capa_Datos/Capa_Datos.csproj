@@ -48,6 +48,7 @@
     <Compile Include="Dpresentacion.cs" />
     <Compile Include="Dproveedor.cs" />
     <Compile Include="Dtrabajador.cs" />
+    <Compile Include="Dusuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

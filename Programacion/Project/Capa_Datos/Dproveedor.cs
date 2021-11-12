@@ -95,7 +95,7 @@ namespace Capa_Datos
         {
 
         }
-
+        /*
         public Dproveedor(int idproveedor, string razon_social, string sector_comercial, string tipo_documento, string num_documento, string direccion,
             string telefono, string email, string url, string estado, string textobuscar)
         {
@@ -111,9 +111,10 @@ namespace Capa_Datos
             this.Estado = estado;
             this.BuscarTexto = textobuscar;
         }
+        */
         //funciones para interactuar con proveedores
         //Método Insertar
-
+        
         public string Insertar(Dproveedor Proveedor)
         {
             string rpta = "";

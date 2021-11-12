@@ -56,7 +56,7 @@ namespace Ferretería_Sofía
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label1.Location = new System.Drawing.Point(93, 58);
+            this.label1.Location = new System.Drawing.Point(50, 30);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(353, 73);
             this.label1.TabIndex = 5;
@@ -87,10 +87,10 @@ namespace Ferretería_Sofía
             // 
             this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tabControl1.Location = new System.Drawing.Point(102, 184);
+            this.tabControl1.Location = new System.Drawing.Point(30, 150);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(1013, 485);
+            this.tabControl1.Size = new System.Drawing.Size(1001, 441);
             this.tabControl1.TabIndex = 4;
             // 
             // tabPage1
@@ -101,8 +101,8 @@ namespace Ferretería_Sofía
             this.tabPage1.Controls.Add(this.label2);
             this.tabPage1.Location = new System.Drawing.Point(4, 27);
             this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Padding = new System.Windows.Forms.Padding(3, 3, 3, 3);
-            this.tabPage1.Size = new System.Drawing.Size(1005, 454);
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage1.Size = new System.Drawing.Size(993, 410);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Listado";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -121,7 +121,7 @@ namespace Ferretería_Sofía
             this.dataListado.ReadOnly = true;
             this.dataListado.RowHeadersWidth = 51;
             this.dataListado.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dataListado.Size = new System.Drawing.Size(990, 344);
+            this.dataListado.Size = new System.Drawing.Size(978, 305);
             this.dataListado.TabIndex = 9;
             this.dataListado.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataListado_CellContentClick);
             this.dataListado.DoubleClick += new System.EventHandler(this.dataListado_DoubleClick);
@@ -147,12 +147,15 @@ namespace Ferretería_Sofía
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1208, 716);
+            this.BackgroundImage = global::Ferretería_Sofía.Properties.Resources.pantallas;
+            this.ClientSize = new System.Drawing.Size(1257, 603);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.tabControl1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.Location = new System.Drawing.Point(163, 130);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "FrmVistaCategoria";
-            this.Text = "FrmVistaCategoria";
+            this.Text = "VistaCategoria";
             this.Load += new System.EventHandler(this.FrmVistaCategoria_Load);
             ((System.ComponentModel.ISupportInitialize)(this.errorIcono)).EndInit();
             this.tabControl1.ResumeLayout(false);

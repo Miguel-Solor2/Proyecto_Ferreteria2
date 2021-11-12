@@ -38,7 +38,7 @@ namespace Ferretería_Sofía
         private void LinkLblPress_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             FrmRecuperar frmrecup = new FrmRecuperar();
-            this.Hide();
+            this.Close();
             frmrecup.Show();
         }
 
@@ -49,16 +49,24 @@ namespace Ferretería_Sofía
 
         private void btnIngresar_Click(object sender, EventArgs e)
         {
-            if (TxtUser.Text == "JoseMa" && TxtPassword.Text == "2002")
+            //se hace referencia al login de la capa de negocio de usuario
+            DataTable Datos = Capa_Negocio.Nusuario.Login(this.TxtUser.Text, this.TxtPassword.Text);
+            //Evaluar si existe el usuario que se escribe en textbox
+            if (Datos.Rows.Count == 0)
             {
-                FrmPrincipal frmmenu = new FrmPrincipal();
-                this.Hide();
-                frmmenu.Show();
+
+                MessageBox.Show("Usuario o contraseña incorrectas", "Intente nuevamente", MessageBoxButtons.OK,MessageBoxIcon.Error);
             }
             else
             {
-                MessageBox.Show("Intente nuevamente", "Usuario o contraseñas incorrectas", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+
+                FrmPrincipal frm = new FrmPrincipal();
+                frm.Acceso = Datos.Rows[0][3].ToString();
+
+                frm.Show();
+                this.Hide();
             }
+        
         }
     }
 }

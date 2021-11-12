@@ -42,11 +42,6 @@ namespace Ferretería_Sofía
             lblTotal.Text = "Total Registros: " + Convert.ToString(dataListado.Rows.Count);
         }
 
-        private void BtnReturn_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
-
         private void FrmVistaCategoria_Load(object sender, EventArgs e)
         {
             this.Mostrar();

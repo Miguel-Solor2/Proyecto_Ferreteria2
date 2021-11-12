@@ -119,6 +119,9 @@ namespace Ferretería_Sofía
             this.dataListado.DataSource = Narticulo.Mostrar();
             this.OcultarColumnas();
             lblTotal.Text = "Total Registros: " + Convert.ToString(dataListado.Rows.Count);
+            dataListado.BestFitColumns(); //Para que automatice
+            dataListado.Columns[0].width = 100;
+
         }
 
         //Método BuscarNombre
@@ -136,74 +139,6 @@ namespace Ferretería_Sofía
             cmbPresentacion.ValueMember = "ID_Presentacion";
             cmbPresentacion.DisplayMember = "Nombre_Presentacion";
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         private void BtnReturn_Click(object sender, EventArgs e)
         {
@@ -229,11 +164,13 @@ namespace Ferretería_Sofía
 
         private void btnCargar_Click(object sender, EventArgs e)
         {
+
             OpenFileDialog dialog = new OpenFileDialog();
             DialogResult result = dialog.ShowDialog();
             if (result == DialogResult.OK)
             {
                 this.pxImagen.SizeMode = PictureBoxSizeMode.StretchImage;
+                
                 this.pxImagen.Image = Image.FromFile(dialog.FileName);
             }
         }

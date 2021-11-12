@@ -40,7 +40,6 @@ namespace Ferretería_Sofía
             this.chkAnular = new System.Windows.Forms.CheckBox();
             this.btnEliminar = new System.Windows.Forms.Button();
             this.txtBuscar = new System.Windows.Forms.TextBox();
-            this.btnImprimir = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
@@ -98,7 +97,7 @@ namespace Ferretería_Sofía
             this.tabControl1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tabControl1.HotTrack = true;
             this.tabControl1.Location = new System.Drawing.Point(35, 180);
-            this.tabControl1.Margin = new System.Windows.Forms.Padding(4);
+            this.tabControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
             this.tabControl1.Size = new System.Drawing.Size(1393, 596);
@@ -112,12 +111,11 @@ namespace Ferretería_Sofía
             this.tabPage1.Controls.Add(this.chkAnular);
             this.tabPage1.Controls.Add(this.btnEliminar);
             this.tabPage1.Controls.Add(this.txtBuscar);
-            this.tabPage1.Controls.Add(this.btnImprimir);
             this.tabPage1.Controls.Add(this.label2);
             this.tabPage1.Location = new System.Drawing.Point(4, 33);
-            this.tabPage1.Margin = new System.Windows.Forms.Padding(4);
+            this.tabPage1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Padding = new System.Windows.Forms.Padding(4);
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tabPage1.Size = new System.Drawing.Size(1385, 559);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Listado";
@@ -125,8 +123,8 @@ namespace Ferretería_Sofía
             // 
             // BtnReturn
             // 
-            this.BtnReturn.Location = new System.Drawing.Point(1203, 52);
-            this.BtnReturn.Margin = new System.Windows.Forms.Padding(4);
+            this.BtnReturn.Location = new System.Drawing.Point(1148, 48);
+            this.BtnReturn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.BtnReturn.Name = "BtnReturn";
             this.BtnReturn.Size = new System.Drawing.Size(137, 38);
             this.BtnReturn.TabIndex = 8;
@@ -146,7 +144,7 @@ namespace Ferretería_Sofía
             this.dataListado.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Anular});
             this.dataListado.Location = new System.Drawing.Point(12, 138);
-            this.dataListado.Margin = new System.Windows.Forms.Padding(4);
+            this.dataListado.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dataListado.MultiSelect = false;
             this.dataListado.Name = "dataListado";
             this.dataListado.ReadOnly = true;
@@ -179,7 +177,7 @@ namespace Ferretería_Sofía
             // 
             this.chkAnular.AutoSize = true;
             this.chkAnular.Location = new System.Drawing.Point(12, 108);
-            this.chkAnular.Margin = new System.Windows.Forms.Padding(4);
+            this.chkAnular.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chkAnular.Name = "chkAnular";
             this.chkAnular.Size = new System.Drawing.Size(87, 28);
             this.chkAnular.TabIndex = 2;
@@ -189,8 +187,8 @@ namespace Ferretería_Sofía
             // 
             // btnEliminar
             // 
-            this.btnEliminar.Location = new System.Drawing.Point(843, 52);
-            this.btnEliminar.Margin = new System.Windows.Forms.Padding(4);
+            this.btnEliminar.Location = new System.Drawing.Point(971, 48);
+            this.btnEliminar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(139, 38);
             this.btnEliminar.TabIndex = 3;
@@ -201,21 +199,11 @@ namespace Ferretería_Sofía
             // txtBuscar
             // 
             this.txtBuscar.Location = new System.Drawing.Point(104, 58);
-            this.txtBuscar.Margin = new System.Windows.Forms.Padding(4);
+            this.txtBuscar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtBuscar.Name = "txtBuscar";
             this.txtBuscar.Size = new System.Drawing.Size(356, 29);
             this.txtBuscar.TabIndex = 0;
             this.txtBuscar.TextChanged += new System.EventHandler(this.txtBuscar_TextChanged);
-            // 
-            // btnImprimir
-            // 
-            this.btnImprimir.Location = new System.Drawing.Point(1027, 52);
-            this.btnImprimir.Margin = new System.Windows.Forms.Padding(4);
-            this.btnImprimir.Name = "btnImprimir";
-            this.btnImprimir.Size = new System.Drawing.Size(137, 38);
-            this.btnImprimir.TabIndex = 4;
-            this.btnImprimir.Text = "&Imprimir";
-            this.btnImprimir.UseVisualStyleBackColor = true;
             // 
             // label2
             // 
@@ -231,9 +219,9 @@ namespace Ferretería_Sofía
             // 
             this.tabPage2.Controls.Add(this.groupBox1);
             this.tabPage2.Location = new System.Drawing.Point(4, 33);
-            this.tabPage2.Margin = new System.Windows.Forms.Padding(4);
+            this.tabPage2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(4);
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tabPage2.Size = new System.Drawing.Size(1385, 559);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Mantenimiento";
@@ -261,9 +249,9 @@ namespace Ferretería_Sofía
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Location = new System.Drawing.Point(8, 7);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.groupBox1.Size = new System.Drawing.Size(1351, 523);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
@@ -276,6 +264,7 @@ namespace Ferretería_Sofía
             "ACTIVA",
             "INACTIVA"});
             this.cmbEstado.Location = new System.Drawing.Point(143, 342);
+            this.cmbEstado.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.cmbEstado.Name = "cmbEstado";
             this.cmbEstado.Size = new System.Drawing.Size(151, 32);
             this.cmbEstado.TabIndex = 34;
@@ -284,7 +273,7 @@ namespace Ferretería_Sofía
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(17, 344);
+            this.label4.Location = new System.Drawing.Point(17, 345);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(73, 24);
@@ -294,8 +283,9 @@ namespace Ferretería_Sofía
             // btnBuscarCategoria
             // 
             this.btnBuscarCategoria.Location = new System.Drawing.Point(535, 70);
+            this.btnBuscarCategoria.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnBuscarCategoria.Name = "btnBuscarCategoria";
-            this.btnBuscarCategoria.Size = new System.Drawing.Size(65, 29);
+            this.btnBuscarCategoria.Size = new System.Drawing.Size(65, 30);
             this.btnBuscarCategoria.TabIndex = 32;
             this.btnBuscarCategoria.Text = "X";
             this.btnBuscarCategoria.UseVisualStyleBackColor = true;
@@ -304,7 +294,7 @@ namespace Ferretería_Sofía
             // txtIdCategoria
             // 
             this.txtIdCategoria.Location = new System.Drawing.Point(404, 33);
-            this.txtIdCategoria.Margin = new System.Windows.Forms.Padding(4);
+            this.txtIdCategoria.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtIdCategoria.Name = "txtIdCategoria";
             this.txtIdCategoria.Size = new System.Drawing.Size(67, 29);
             this.txtIdCategoria.TabIndex = 31;
@@ -323,7 +313,7 @@ namespace Ferretería_Sofía
             // 
             this.cmbPresentacion.FormattingEnabled = true;
             this.cmbPresentacion.Location = new System.Drawing.Point(143, 111);
-            this.cmbPresentacion.Margin = new System.Windows.Forms.Padding(4);
+            this.cmbPresentacion.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.cmbPresentacion.Name = "cmbPresentacion";
             this.cmbPresentacion.Size = new System.Drawing.Size(385, 32);
             this.cmbPresentacion.TabIndex = 3;
@@ -331,7 +321,7 @@ namespace Ferretería_Sofía
             // txtCategoria
             // 
             this.txtCategoria.Location = new System.Drawing.Point(404, 70);
-            this.txtCategoria.Margin = new System.Windows.Forms.Padding(4);
+            this.txtCategoria.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtCategoria.Name = "txtCategoria";
             this.txtCategoria.Size = new System.Drawing.Size(124, 29);
             this.txtCategoria.TabIndex = 4;
@@ -352,9 +342,9 @@ namespace Ferretería_Sofía
             this.groupBox2.Controls.Add(this.btnCargar);
             this.groupBox2.Controls.Add(this.btnLimpiar);
             this.groupBox2.Location = new System.Drawing.Point(753, 33);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(4);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(4);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.groupBox2.Size = new System.Drawing.Size(277, 250);
             this.groupBox2.TabIndex = 14;
             this.groupBox2.TabStop = false;
@@ -364,7 +354,7 @@ namespace Ferretería_Sofía
             // 
             this.pxImagen.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pxImagen.Location = new System.Drawing.Point(8, 23);
-            this.pxImagen.Margin = new System.Windows.Forms.Padding(4);
+            this.pxImagen.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pxImagen.Name = "pxImagen";
             this.pxImagen.Size = new System.Drawing.Size(251, 164);
             this.pxImagen.TabIndex = 17;
@@ -372,8 +362,8 @@ namespace Ferretería_Sofía
             // 
             // btnCargar
             // 
-            this.btnCargar.Location = new System.Drawing.Point(8, 195);
-            this.btnCargar.Margin = new System.Windows.Forms.Padding(4);
+            this.btnCargar.Location = new System.Drawing.Point(8, 194);
+            this.btnCargar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnCargar.Name = "btnCargar";
             this.btnCargar.Size = new System.Drawing.Size(100, 34);
             this.btnCargar.TabIndex = 5;
@@ -384,7 +374,7 @@ namespace Ferretería_Sofía
             // btnLimpiar
             // 
             this.btnLimpiar.Location = new System.Drawing.Point(116, 196);
-            this.btnLimpiar.Margin = new System.Windows.Forms.Padding(4);
+            this.btnLimpiar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnLimpiar.Name = "btnLimpiar";
             this.btnLimpiar.Size = new System.Drawing.Size(100, 33);
             this.btnLimpiar.TabIndex = 16;
@@ -395,7 +385,7 @@ namespace Ferretería_Sofía
             // btnCancelar
             // 
             this.btnCancelar.Location = new System.Drawing.Point(759, 449);
-            this.btnCancelar.Margin = new System.Windows.Forms.Padding(4);
+            this.btnCancelar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(117, 48);
             this.btnCancelar.TabIndex = 11;
@@ -405,7 +395,7 @@ namespace Ferretería_Sofía
             // btnEditar
             // 
             this.btnEditar.Location = new System.Drawing.Point(607, 449);
-            this.btnEditar.Margin = new System.Windows.Forms.Padding(4);
+            this.btnEditar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnEditar.Name = "btnEditar";
             this.btnEditar.Size = new System.Drawing.Size(117, 48);
             this.btnEditar.TabIndex = 10;
@@ -416,7 +406,7 @@ namespace Ferretería_Sofía
             // btnGuardar
             // 
             this.btnGuardar.Location = new System.Drawing.Point(471, 449);
-            this.btnGuardar.Margin = new System.Windows.Forms.Padding(4);
+            this.btnGuardar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnGuardar.Name = "btnGuardar";
             this.btnGuardar.Size = new System.Drawing.Size(117, 48);
             this.btnGuardar.TabIndex = 9;
@@ -427,7 +417,7 @@ namespace Ferretería_Sofía
             // btnNuevo
             // 
             this.btnNuevo.Location = new System.Drawing.Point(336, 449);
-            this.btnNuevo.Margin = new System.Windows.Forms.Padding(4);
+            this.btnNuevo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnNuevo.Name = "btnNuevo";
             this.btnNuevo.Size = new System.Drawing.Size(117, 48);
             this.btnNuevo.TabIndex = 7;
@@ -438,7 +428,7 @@ namespace Ferretería_Sofía
             // txtDescripcion
             // 
             this.txtDescripcion.Location = new System.Drawing.Point(143, 191);
-            this.txtDescripcion.Margin = new System.Windows.Forms.Padding(4);
+            this.txtDescripcion.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtDescripcion.Multiline = true;
             this.txtDescripcion.Name = "txtDescripcion";
             this.txtDescripcion.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
@@ -458,7 +448,7 @@ namespace Ferretería_Sofía
             // txtNombre
             // 
             this.txtNombre.Location = new System.Drawing.Point(143, 150);
-            this.txtNombre.Margin = new System.Windows.Forms.Padding(4);
+            this.txtNombre.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(385, 29);
             this.txtNombre.TabIndex = 1;
@@ -467,7 +457,7 @@ namespace Ferretería_Sofía
             // 
             this.txtIdArticulo.Enabled = false;
             this.txtIdArticulo.Location = new System.Drawing.Point(143, 70);
-            this.txtIdArticulo.Margin = new System.Windows.Forms.Padding(4);
+            this.txtIdArticulo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtIdArticulo.Name = "txtIdArticulo";
             this.txtIdArticulo.Size = new System.Drawing.Size(124, 29);
             this.txtIdArticulo.TabIndex = 30;
@@ -505,12 +495,12 @@ namespace Ferretería_Sofía
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Ferretería_Sofía.Properties.Resources.pantallas;
-            this.ClientSize = new System.Drawing.Size(1535, 810);
+            this.ClientSize = new System.Drawing.Size(1697, 790);
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.LblTitulo);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Location = new System.Drawing.Point(163, 130);
-            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "FrmArticulos";
             this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "FrmArticulos";
@@ -541,7 +531,6 @@ namespace Ferretería_Sofía
         private System.Windows.Forms.CheckBox chkAnular;
         private System.Windows.Forms.Button btnEliminar;
         private System.Windows.Forms.TextBox txtBuscar;
-        private System.Windows.Forms.Button btnImprimir;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TabPage tabPage2;
         private System.Windows.Forms.GroupBox groupBox1;

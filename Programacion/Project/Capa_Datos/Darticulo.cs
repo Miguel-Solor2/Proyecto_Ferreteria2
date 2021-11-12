@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 using System.Data;
 using System.Data.SqlClient;
 
@@ -70,11 +69,13 @@ namespace Capa_Datos
 
         //Constructores 
         //Constructor Vacío
+        /*
         public Darticulo()
         {
 
         }
-
+        */
+        /*
         //Constructor con todas los parámetros
         public Darticulo(int idarticulo, string nombre, string descripcion, byte[] imagen, int idcategoria, int idpresentacion, string textobuscar, string estado)
         {
@@ -87,7 +88,7 @@ namespace Capa_Datos
             this.TextoBuscar = textobuscar;
             this.Estado = estado;
         }
-
+        */
         //Método Insertar
         public string Insertar(Darticulo Articulo)
         {

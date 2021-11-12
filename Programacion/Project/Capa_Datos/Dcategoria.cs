@@ -48,11 +48,12 @@ namespace Capa_Datos
         }
 
         //Constructor Vacio
+        /*
         public Dcategoria()
         {
 
         }
-
+        /*
         //Constructor Parametros
         public Dcategoria(int categoriaid, string nombre, string descripcion, string buscartexto, string estado)
         {
@@ -62,7 +63,7 @@ namespace Capa_Datos
             this.BuscarTexto = buscartexto;
             this.Estado = estado;
         }
-
+        */
         //Metodo Insertar 
         public string Insertar(Dcategoria Categoria)
         {
