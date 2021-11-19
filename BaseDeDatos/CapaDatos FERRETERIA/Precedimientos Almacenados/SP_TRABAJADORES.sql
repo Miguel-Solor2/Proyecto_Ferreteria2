@@ -48,3 +48,14 @@ UPDATE TRABAJADOR SET [Nombre_Trabajador]=@nombre_trabajador,[Apellido_Trabajado
 [Genero]=@genero,[Tipo_Documento]=@tipo_Documento,[Direccion_T]=@direccion,[Telefono_T]=@telefono,[Email_T]=@email
 WHERE [ID_Trabajador] = @idtrabajador
 GO
+
+
+-----------VERIFICACION DE CORREO
+CREATE PROC SP_VALIDARCORREO 
+@email VARCHAR(60)
+AS
+SELECT * FROM TRABAJADOR WHERE [Email_T]=@email 
+
+SELECT * FROM TRABAJADOR
+SELECT * FROM USUARIO
+UPDATE TRABAJADOR SET Email_T = 'miguelsolorzano773@gmail.com' WHERE ID_Trabajador = 2

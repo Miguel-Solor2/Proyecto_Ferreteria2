@@ -1,0 +1,515 @@
+C:\Users\josem\source\repos\Ferretería_Sofía\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe.config
+C:\Users\josem\source\repos\Ferretería_Sofía\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe
+C:\Users\josem\source\repos\Ferretería_Sofía\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.pdb
+C:\Users\josem\source\repos\Ferretería_Sofía\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.AssemblyReference.cache
+C:\Users\josem\source\repos\Ferretería_Sofía\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmLogin.resources
+C:\Users\josem\source\repos\Ferretería_Sofía\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Pantalla_Carga.resources
+C:\Users\josem\source\repos\Ferretería_Sofía\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Properties.Resources.resources
+C:\Users\josem\source\repos\Ferretería_Sofía\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.GenerateResource.cache
+C:\Users\josem\source\repos\Ferretería_Sofía\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\Ferretería_Sofía\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.exe
+C:\Users\josem\source\repos\Ferretería_Sofía\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.pdb
+C:\Users\josem\source\repos\Ferretería_Sofía\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPrincipal.resources
+C:\Users\josem\source\repos\Ferretería_Sofía\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmRecuperar.resources
+C:\Users\josem\source\repos\Ferretería_Sofía\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmArticulos.resources
+C:\Users\josem\source\repos\Ferretería_Sofía\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmCategorias.resources
+C:\Users\josem\source\repos\Ferretería_Sofía\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPresentacion.resources
+C:\Users\josem\source\repos\Ferretería_Sofía\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmIngresos.resources
+C:\Users\josem\source\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe.config
+C:\Users\josem\source\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe
+C:\Users\josem\source\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.pdb
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.AssemblyReference.cache
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmArticulos.resources
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmCategorias.resources
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmIngresos.resources
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPresentacion.resources
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPrincipal.resources
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmProveedores.resources
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmRecuperar.resources
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmLogin.resources
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Pantalla_Carga.resources
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Properties.Resources.resources
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.GenerateResource.cache
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.exe
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.pdb
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVentas.resources
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmBackupBD.resources
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmClientes.resources
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmStockdeArticulos.resources
+C:\Users\josem\source\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmTrabajadores.resources
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe.config
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.pdb
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.AssemblyReference.cache
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmArticulos.resources
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmBackupBD.resources
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmCategorias.resources
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmClientes.resources
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmIngresos.resources
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPresentacion.resources
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPrincipal.resources
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmProveedores.resources
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmRecuperar.resources
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmStockdeArticulos.resources
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmTrabajadores.resources
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVentas.resources
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmLogin.resources
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Pantalla_Carga.resources
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Properties.Resources.resources
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.GenerateResource.cache
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.exe
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.pdb
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\bin\Debug\Capa_Negocio.dll
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\bin\Debug\Capa_Datos.dll
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\bin\Debug\Capa_Negocio.pdb
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\bin\Debug\Capa_Datos.pdb
+C:\Users\Hernan\source\repos\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaCategoria.resources
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe.config
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.pdb
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Negocio.dll
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Datos.dll
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Negocio.pdb
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Datos.pdb
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.AssemblyReference.cache
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmArticulos.resources
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmBackupBD.resources
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmCategorias.resources
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmClientes.resources
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmIngresos.resources
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPresentacion.resources
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPrincipal.resources
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmProveedores.resources
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmRecuperar.resources
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmStockdeArticulos.resources
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmTrabajadores.resources
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVentas.resources
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaCategoria.resources
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmLogin.resources
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Pantalla_Carga.resources
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Properties.Resources.resources
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.GenerateResource.cache
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CoreCompileInputs.cache
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CopyComplete
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.exe
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.pdb
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmUsuario.resources
+C:\Users\josem\Desktop\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaTrabajador.resources
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe.config
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.pdb
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Negocio.dll
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Datos.dll
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Negocio.pdb
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Datos.pdb
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.AssemblyReference.cache
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmArticulos.resources
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmBackupBD.resources
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmCategorias.resources
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmClientes.resources
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmIngresos.resources
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPresentacion.resources
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPrincipal.resources
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmProveedores.resources
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmRecuperar.resources
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmStockdeArticulos.resources
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmTrabajadores.resources
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmUsuario.resources
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVentas.resources
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaCategoria.resources
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaTrabajador.resources
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmLogin.resources
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Pantalla_Carga.resources
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Properties.Resources.resources
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.GenerateResource.cache
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.exe
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.pdb
+C:\Users\Hernan\source\repos\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CopyComplete
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe.config
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.pdb
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Negocio.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Datos.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Negocio.pdb
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Datos.pdb
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csprojAssemblyReference.cache
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmArticulos.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmBackupBD.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmCategorias.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmClientes.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmIngresos.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPresentacion.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPrincipal.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmProveedores.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmRecuperar.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmStockdeArticulos.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmTrabajadores.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmUsuario.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVentas.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaCategoria.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaTrabajador.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmLogin.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Pantalla_Carga.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Properties.Resources.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.GenerateResource.cache
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CopyComplete
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.exe
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.pdb
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe.config
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.pdb
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Negocio.dll
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Datos.dll
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Negocio.pdb
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Datos.pdb
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.AssemblyReference.cache
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmArticulos.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmBackupBD.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmCategorias.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmClientes.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmIngresos.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPresentacion.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPrincipal.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmProveedores.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmRecuperar.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmStockdeArticulos.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmTrabajadores.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmUsuario.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVentas.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaArticulo_Ingreso.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaCategoria.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaProveedor_Ingreso.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaTrabajador.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmLogin.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Pantalla_Carga.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Properties.Resources.resources
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.GenerateResource.cache
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CoreCompileInputs.cache
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CopyComplete
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.exe
+C:\Users\josem\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.pdb
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe.config
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.pdb
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Negocio.dll
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Datos.dll
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Negocio.pdb
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\bin\Debug\Capa_Datos.pdb
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmArticulos.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmBackupBD.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmCategorias.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmClientes.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmIngresos.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPresentacion.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPrincipal.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmProveedores.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmRecuperar.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmStockdeArticulos.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmTrabajadores.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmUsuario.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVentas.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaArticulo_Ingreso.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaCategoria.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaProveedor_Ingreso.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaTrabajador.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmLogin.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Pantalla_Carga.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.exe
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.pdb
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaArticulo_Ventas.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaCliente_Ventas.resources
+C:\Users\Hernan\Desktop\Proyecto Mejorado\Project(con login y usuarios)\Project\Project\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CopyComplete
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe.config
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.pdb
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Capa_Negocio.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Capa_Datos.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Capa_Negocio.pdb
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Capa_Datos.pdb
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Capa_Presentación.csprojAssemblyReference.cache
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmArticulos.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmBackupBD.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmCategorias.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmClientes.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmIngresos.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPresentacion.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPrincipal.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmProveedores.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmRecuperar.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmStockdeArticulos.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmTrabajadores.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmUsuario.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVentas.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaArticulo_Ingreso.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaArticulo_Ventas.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaCategoria.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaCliente_Ventas.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaProveedor_Ingreso.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaTrabajador.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmLogin.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Pantalla_Carga.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Properties.Resources.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.GenerateResource.cache
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CopyComplete
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.exe
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.pdb
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe.config
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.pdb
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Capa_Negocio.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Capa_Datos.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\EnvDTE.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\stdole.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.MSXML.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Capa_Negocio.pdb
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Capa_Datos.pdb
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.AssemblyReference.cache
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmArticulos.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmBackupBD.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmCategorias.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmClientes.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmIngresos.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPresentacion.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPrincipal.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmProveedores.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmRecuperar.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmStockdeArticulos.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmTrabajadores.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmUsuario.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVentas.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaArticulo_Ingreso.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaArticulo_Ventas.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaCategoria.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaCliente_Ventas.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaProveedor_Ingreso.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaTrabajador.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmLogin.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Pantalla_Carga.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Properties.Resources.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.GenerateResource.cache
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\RdlCompile.cache
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\RdlCompile.compiled
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CoreCompileInputs.cache
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CopyComplete
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.exe
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.pdb
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteArticulos.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteCategorias.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteCliente.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteIngresos.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReportePresentacion.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteProveedores.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteTrabajador.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteUsuarios.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteVentas.resources
+C:\Users\josem\Desktop\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmEditarPassword.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe.config
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.pdb
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Capa_Negocio.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Capa_Datos.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\EnvDTE.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\stdole.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Capa_Negocio.pdb
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\Capa_Datos.pdb
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmArticulos.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmBackupBD.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmCategorias.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmClientes.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmEditarPassword.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmIngresos.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPresentacion.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPrincipal.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmProveedores.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmRecuperar.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmStockdeArticulos.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmTrabajadores.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmUsuario.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVentas.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaArticulo_Ingreso.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaArticulo_Ventas.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaCategoria.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaCliente_Ventas.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaProveedor_Ingreso.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaTrabajador.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmLogin.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Pantalla_Carga.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Properties.Resources.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteArticulos.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteCategorias.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteCliente.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteIngresos.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReportePresentacion.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteProveedores.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteTrabajador.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteUsuarios.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteVentas.resources
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\RdlCompile.cache
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\RdlCompile.compiled
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.exe
+C:\Users\Hernan\Desktop\El de Hernando\El de Hernándo\Proyecto Mejorado\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.pdb
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe.config
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.exe
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\Ferretería_Sofía.pdb
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\Capa_Negocio.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\Capa_Datos.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\EnvDTE.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\stdole.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\Microsoft.MSXML.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\Capa_Negocio.pdb
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\Capa_Datos.pdb
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Capa_Presentación.csprojAssemblyReference.cache
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmArticulos.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmBackupBD.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmCategorias.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmClientes.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmEditarPassword.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmIngresos.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPresentacion.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmPrincipal.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmProveedores.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmRecuperar.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmTrabajadores.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmUsuario.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVentas.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaArticulo_Ingreso.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaArticulo_Ventas.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaCategoria.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaCliente_Ventas.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaProveedor_Ingreso.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmVistaTrabajador.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.FrmLogin.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Pantalla_Carga.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Properties.Resources.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteArticulos.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteCategorias.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteCliente.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteIngresos.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReportePresentacion.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteProveedores.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteTrabajador.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteUsuarios.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.Reportes.FrmReporteVentas.resources
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.GenerateResource.cache
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\RdlCompile.cache
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\RdlCompile.compiled
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Capa_Presentación.csproj.CopyComplete
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.exe
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Ferretería_Sofía\obj\Debug\Ferretería_Sofía.pdb

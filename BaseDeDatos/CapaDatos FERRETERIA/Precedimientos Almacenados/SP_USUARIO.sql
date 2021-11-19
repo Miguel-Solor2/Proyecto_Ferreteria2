@@ -58,3 +58,13 @@ FROM     dbo.USUARIO INNER JOIN
 				  WHERE Usuario=@Usuario AND Contrasena = @Contrasena
 				  GO
 select * from usuario
+select * from TRABAJADOR
+UPDATE TRABAJADOR SET Email_T = 'josemariaalmendares@gmail.com' WHERE ID_Trabajador = 2
+
+----------RECUPERAR CONTRASENA
+CREATE PROC SP_CAMBIAR_PASS
+@Usuario VARCHAR(20),
+@contrasena VARCHAR(20)
+AS
+UPDATE USUARIO SET  [Contrasena]= @contrasena
+WHERE  Usuario=@Usuario
