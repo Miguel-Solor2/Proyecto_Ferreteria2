@@ -329,5 +329,14 @@ namespace Ferretería_Sofía
             Reportes.FrmReporteProveedores Reporte = new Reportes.FrmReporteProveedores();
             Reporte.ShowDialog();
         }
+
+        private void TxtTelefono_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if ((e.KeyChar >= 32 && e.KeyChar <= 47) || (e.KeyChar >= 58 && e.KeyChar <= 255))
+            {
+                MessageBox.Show("Este campo solo admite números", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                e.Handled = true;
+            }
+        }
     }
 }

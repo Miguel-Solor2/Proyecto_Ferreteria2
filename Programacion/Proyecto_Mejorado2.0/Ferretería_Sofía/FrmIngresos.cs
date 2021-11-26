@@ -94,7 +94,7 @@ namespace Ferretería_Sofía
         {
             this.txtIdIngreso.ReadOnly = !valor;
             this.txtcomprobante.ReadOnly = !valor;
-            this.txtIVA.Enabled = valor;
+            this.txtIVA.ReadOnly = !valor;
             this.dtFechaIngresoAlmacen.Enabled = valor;
             this.cbTipoComprobante.Enabled = valor;
             this.txtArticulo.ReadOnly = !valor;
@@ -103,6 +103,7 @@ namespace Ferretería_Sofía
             this.txtPrecioCompra.ReadOnly = !valor;
             this.dtFechaProduccion.Enabled = valor;
             this.dtFechaVencimiento.Enabled = valor;
+            this.cmbestado.Enabled = valor;
             this.btnAgregar.Enabled = valor;
             this.btnQuitar.Enabled = valor;
             this.btnBuscarProveedor.Enabled = valor;
@@ -450,6 +451,24 @@ namespace Ferretería_Sofía
         {
             Reportes.FrmReporteIngresos Reporte = new Reportes.FrmReporteIngresos();
             Reporte.ShowDialog();
+        }
+
+        private void txtStock_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if ((e.KeyChar >= 32 && e.KeyChar <= 47) || (e.KeyChar >= 58 && e.KeyChar <= 255))
+            {
+                MessageBox.Show("Este campo solo admite números", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                e.Handled = true;
+            }
+        }
+
+        private void txtPrecioCompra_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if ((e.KeyChar >= 32 && e.KeyChar <= 47) || (e.KeyChar >= 58 && e.KeyChar <= 255))
+            {
+                MessageBox.Show("Este campo solo admite números", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                e.Handled = true;
+            }
         }
     }
 }

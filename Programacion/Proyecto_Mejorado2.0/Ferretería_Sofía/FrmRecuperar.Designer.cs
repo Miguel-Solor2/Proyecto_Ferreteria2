@@ -42,9 +42,9 @@ namespace Ferretería_Sofía
             // TxtCorreo
             // 
             this.TxtCorreo.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TxtCorreo.Location = new System.Drawing.Point(190, 84);
+            this.TxtCorreo.Location = new System.Drawing.Point(174, 84);
             this.TxtCorreo.Name = "TxtCorreo";
-            this.TxtCorreo.Size = new System.Drawing.Size(189, 24);
+            this.TxtCorreo.Size = new System.Drawing.Size(290, 24);
             this.TxtCorreo.TabIndex = 0;
             // 
             // LblCorreo
@@ -52,7 +52,7 @@ namespace Ferretería_Sofía
             this.LblCorreo.AutoSize = true;
             this.LblCorreo.BackColor = System.Drawing.Color.Transparent;
             this.LblCorreo.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LblCorreo.Location = new System.Drawing.Point(21, 83);
+            this.LblCorreo.Location = new System.Drawing.Point(12, 83);
             this.LblCorreo.Name = "LblCorreo";
             this.LblCorreo.Size = new System.Drawing.Size(163, 24);
             this.LblCorreo.TabIndex = 1;
@@ -73,14 +73,16 @@ namespace Ferretería_Sofía
             // 
             this.TxtCode.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TxtCode.Location = new System.Drawing.Point(61, 252);
+            this.TxtCode.MaxLength = 6;
             this.TxtCode.Name = "TxtCode";
             this.TxtCode.Size = new System.Drawing.Size(189, 24);
-            this.TxtCode.TabIndex = 3;
+            this.TxtCode.TabIndex = 0;
+            this.TxtCode.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TxtCode_KeyPress);
             // 
             // BtnEnviar
             // 
             this.BtnEnviar.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnEnviar.Location = new System.Drawing.Point(251, 136);
+            this.BtnEnviar.Location = new System.Drawing.Point(276, 136);
             this.BtnEnviar.Name = "BtnEnviar";
             this.BtnEnviar.Size = new System.Drawing.Size(103, 48);
             this.BtnEnviar.TabIndex = 4;
@@ -91,7 +93,7 @@ namespace Ferretería_Sofía
             // BtnCancelar
             // 
             this.BtnCancelar.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnCancelar.Location = new System.Drawing.Point(97, 136);
+            this.BtnCancelar.Location = new System.Drawing.Point(122, 136);
             this.BtnCancelar.Name = "BtnCancelar";
             this.BtnCancelar.Size = new System.Drawing.Size(103, 48);
             this.BtnCancelar.TabIndex = 5;

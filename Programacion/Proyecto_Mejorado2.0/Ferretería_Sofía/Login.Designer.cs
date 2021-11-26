@@ -29,6 +29,7 @@ namespace Ferretería_Sofía
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.LinkLblPress = new System.Windows.Forms.LinkLabel();
             this.LblQuestion = new System.Windows.Forms.Label();
             this.btnCancelar = new System.Windows.Forms.Button();
@@ -39,6 +40,8 @@ namespace Ferretería_Sofía
             this.TxtUser = new System.Windows.Forms.TextBox();
             this.BtnShow = new System.Windows.Forms.Button();
             this.BtnHide = new System.Windows.Forms.Button();
+            this.errorIcono = new System.Windows.Forms.ErrorProvider(this.components);
+            ((System.ComponentModel.ISupportInitialize)(this.errorIcono)).BeginInit();
             this.SuspendLayout();
             // 
             // LinkLblPress
@@ -166,6 +169,10 @@ namespace Ferretería_Sofía
             this.BtnHide.UseVisualStyleBackColor = true;
             this.BtnHide.Click += new System.EventHandler(this.BtnHide_Click);
             // 
+            // errorIcono
+            // 
+            this.errorIcono.ContainerControl = this;
+            // 
             // FrmLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -188,6 +195,7 @@ namespace Ferretería_Sofía
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
             this.Load += new System.EventHandler(this.FrmLogin_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.errorIcono)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -205,5 +213,6 @@ namespace Ferretería_Sofía
         private System.Windows.Forms.TextBox TxtUser;
         private System.Windows.Forms.Button BtnShow;
         private System.Windows.Forms.Button BtnHide;
+        private System.Windows.Forms.ErrorProvider errorIcono;
     }
 }

@@ -87,3 +87,21 @@ C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de H
 C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
 C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Capa_Negocio\obj\Debug\Capa_Negocio.dll
 C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Programacion\El de Hernando\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\josem\Desktop\Desarrollo de Software\Proyecto_Mejorado2.0\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\josem\Desktop\Desarrollo de Software\Proyecto_Mejorado2.0\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\josem\Desktop\Desarrollo de Software\Proyecto_Mejorado2.0\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\josem\Desktop\Desarrollo de Software\Proyecto_Mejorado2.0\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\josem\Desktop\Desarrollo de Software\Proyecto_Mejorado2.0\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\josem\Desktop\Desarrollo de Software\Proyecto_Mejorado2.0\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\josem\Desktop\Desarrollo de Software\Proyecto_Mejorado2.0\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\josem\Desktop\Desarrollo de Software\Proyecto_Mejorado2.0\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\josem\Desktop\Desarrollo de Software\Proyecto_Mejorado2.0\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Proyecto_Mejorado2.0\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Proyecto_Mejorado2.0\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Proyecto_Mejorado2.0\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Proyecto_Mejorado2.0\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Proyecto_Mejorado2.0\Capa_Negocio\obj\Debug\Capa_Negocio.csprojAssemblyReference.cache
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Proyecto_Mejorado2.0\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Proyecto_Mejorado2.0\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Proyecto_Mejorado2.0\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\migue\Desktop\Programas\Clases\Proyecto_Ferreteria\Proyecto_Mejorado2.0\Capa_Negocio\obj\Debug\Capa_Negocio.pdb

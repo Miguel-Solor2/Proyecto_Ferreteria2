@@ -52,7 +52,13 @@ namespace Ferretería_Sofía
             //se hace referencia al login de la capa de negocio de usuario
             DataTable Datos = Capa_Negocio.Nusuario.Login(this.TxtUser.Text, this.TxtPassword.Text);
             //Evaluar si existe el usuario que se escribe en textbox
-            if (Datos.Rows.Count == 0)
+            if(TxtUser.Text == string.Empty && TxtPassword.Text == string.Empty)
+            {
+                errorIcono.SetError(TxtUser, "Ingrese su usuario");
+                errorIcono.SetError(TxtPassword, "Ingrese su contraseña");
+                MessageBox.Show("Los campos no deben estar vacíos", "Intente nuevamente", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else if (Datos.Rows.Count == 0)
             {
 
                 MessageBox.Show("Usuario o contraseña incorrectas", "Intente nuevamente", MessageBoxButtons.OK, MessageBoxIcon.Error);

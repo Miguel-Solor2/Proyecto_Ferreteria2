@@ -111,7 +111,7 @@ namespace Ferretería_Sofía
             // BtnReporte
             // 
             this.BtnReporte.Location = new System.Drawing.Point(1031, 69);
-            this.BtnReporte.Margin = new System.Windows.Forms.Padding(4);
+            this.BtnReporte.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.BtnReporte.Name = "BtnReporte";
             this.BtnReporte.Size = new System.Drawing.Size(137, 38);
             this.BtnReporte.TabIndex = 19;
@@ -122,7 +122,7 @@ namespace Ferretería_Sofía
             // BtnReturn
             // 
             this.BtnReturn.Location = new System.Drawing.Point(1201, 69);
-            this.BtnReturn.Margin = new System.Windows.Forms.Padding(4);
+            this.BtnReturn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.BtnReturn.Name = "BtnReturn";
             this.BtnReturn.Size = new System.Drawing.Size(137, 38);
             this.BtnReturn.TabIndex = 12;
@@ -198,12 +198,14 @@ namespace Ferretería_Sofía
             this.TxtBuscar.Location = new System.Drawing.Point(183, 69);
             this.TxtBuscar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.TxtBuscar.Name = "TxtBuscar";
+            this.TxtBuscar.ShortcutsEnabled = false;
             this.TxtBuscar.Size = new System.Drawing.Size(311, 28);
             this.TxtBuscar.TabIndex = 1;
             this.TxtBuscar.TextChanged += new System.EventHandler(this.TxtBuscar_TextChanged);
             // 
             // cmbbuscar
             // 
+            this.cmbbuscar.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbbuscar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cmbbuscar.FormattingEnabled = true;
             this.cmbbuscar.Items.AddRange(new object[] {
@@ -214,7 +216,6 @@ namespace Ferretería_Sofía
             this.cmbbuscar.Name = "cmbbuscar";
             this.cmbbuscar.Size = new System.Drawing.Size(137, 30);
             this.cmbbuscar.TabIndex = 0;
-            this.cmbbuscar.Text = "Documento";
             // 
             // tabPage2
             // 
@@ -254,6 +255,7 @@ namespace Ferretería_Sofía
             // 
             // cmbEstado
             // 
+            this.cmbEstado.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbEstado.FormattingEnabled = true;
             this.cmbEstado.Items.AddRange(new object[] {
             "ACTIVA",
@@ -263,7 +265,6 @@ namespace Ferretería_Sofía
             this.cmbEstado.Name = "cmbEstado";
             this.cmbEstado.Size = new System.Drawing.Size(151, 30);
             this.cmbEstado.TabIndex = 38;
-            this.cmbEstado.Text = "ACTIVA";
             // 
             // label10
             // 
@@ -278,7 +279,7 @@ namespace Ferretería_Sofía
             // txtDireccion
             // 
             this.txtDireccion.Location = new System.Drawing.Point(196, 353);
-            this.txtDireccion.Margin = new System.Windows.Forms.Padding(4);
+            this.txtDireccion.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtDireccion.Multiline = true;
             this.txtDireccion.Name = "txtDireccion";
             this.txtDireccion.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
@@ -295,6 +296,7 @@ namespace Ferretería_Sofía
             // 
             // cmbTipodoc
             // 
+            this.cmbTipodoc.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbTipodoc.FormattingEnabled = true;
             this.cmbTipodoc.Items.AddRange(new object[] {
             "DNI",
@@ -307,6 +309,7 @@ namespace Ferretería_Sofía
             // 
             // cmbSectorsocial
             // 
+            this.cmbSectorsocial.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbSectorsocial.FormattingEnabled = true;
             this.cmbSectorsocial.Items.AddRange(new object[] {
             "Construccion",
@@ -321,9 +324,12 @@ namespace Ferretería_Sofía
             // 
             this.TxtTelefono.Location = new System.Drawing.Point(868, 154);
             this.TxtTelefono.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.TxtTelefono.MaxLength = 8;
             this.TxtTelefono.Name = "TxtTelefono";
+            this.TxtTelefono.ShortcutsEnabled = false;
             this.TxtTelefono.Size = new System.Drawing.Size(217, 28);
             this.TxtTelefono.TabIndex = 17;
+            this.TxtTelefono.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TxtTelefono_KeyPress);
             // 
             // TxtURL
             // 
@@ -515,7 +521,7 @@ namespace Ferretería_Sofía
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Ferretería_Sofía.Properties.Resources.pantallas;
-            this.ClientSize = new System.Drawing.Size(1697, 790);
+            this.ClientSize = new System.Drawing.Size(1620, 790);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.tabControl1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;

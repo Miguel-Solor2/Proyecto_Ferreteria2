@@ -237,7 +237,12 @@ namespace Ferretería_Sofía
                     MensajeError("Falta Ingresar algunos valores");
                     errorIcono.SetError(txtuser, "Ingrese un Usuario");
                     errorIcono.SetError(txtpassword, "Ingrese una Contraseña");
-                    errorIcono.SetError(txtconfirm, "Confirme la contraseña");
+                }
+                else if (txtpassword.Text != txtconfirm.Text)
+                {
+                    MensajeError("Algunos campos no coinciden");
+                    errorIcono.SetError(txtpassword, "Las campos deben de ser iguales");
+                    errorIcono.SetError(txtconfirm, "Las campos deben de ser iguales");
                 }
                 else
                 {

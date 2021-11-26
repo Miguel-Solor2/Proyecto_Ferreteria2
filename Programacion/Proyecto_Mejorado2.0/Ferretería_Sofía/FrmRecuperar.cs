@@ -20,6 +20,7 @@ namespace Ferretería_Sofía
         public FrmRecuperar()
         {
             InitializeComponent();
+            
         }
         private void EnviarCodigo()
         {
@@ -76,7 +77,11 @@ namespace Ferretería_Sofía
         {
             DataTable Datos = Capa_Negocio.Ntrabajador.Verificar(this.TxtCorreo.Text);
 
-            if (Datos.Rows.Count == 0)
+            if(TxtCorreo.Text == string.Empty)
+            {
+                MessageBox.Show("Primero debe escribir un correo", "Intente nuevamente", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else if (Datos.Rows.Count == 0)
             {
 
                 MessageBox.Show("Correo no encontrado", "Intente nuevamente", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -89,7 +94,11 @@ namespace Ferretería_Sofía
 
         private void BtnVerificar_Click(object sender, EventArgs e)
         {
-            if (randomCode == (TxtCode.Text).ToString())
+            if(TxtCode.Text == string.Empty)
+            {
+                MessageBox.Show("Debe introducir un código de verificación", "Intente nuevamente", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else if (randomCode == (TxtCode.Text).ToString())
             {
                 To = TxtCorreo.Text;
 
@@ -100,7 +109,16 @@ namespace Ferretería_Sofía
             else
             {
 
-                MessageBox.Show("Codigo erroneo");
+                MessageBox.Show("Codigo erroneo", "Intente nuevamente",MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void TxtCode_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if ((e.KeyChar >= 32 && e.KeyChar <= 47) || (e.KeyChar >= 58 && e.KeyChar <= 255))
+            {
+                MessageBox.Show("Este campo solo admite números", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                e.Handled = true;
             }
         }
     }
